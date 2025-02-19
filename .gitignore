@@ -1,4 +1,4 @@
-images/
-scans/
-videos/
-.spyproject/
+/images/
+/scans/
+/videos/
+/.spyproject/
